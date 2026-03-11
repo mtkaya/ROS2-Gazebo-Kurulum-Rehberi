@@ -201,7 +201,7 @@ docker run -it --rm osrf/ros:foxy-desktop ros2 run demo_nodes_cpp listener
 
 [ROS 2 eğitimleri](https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools/Recording-And-Playing-Back-Data/Recording-And-Playing-Back-Data.html)
 
-## Yararlanılan Kaynaklar 
+## Yararlanılan Kaynaklar
 
 [Ros2 Dökümantasyonu](https://docs.ros.org/en/humble/index.html), [Ubuntu Repoları](https://help.ubuntu.com/community/Repositories/Ubuntu#What_are_Repositories.3F), [Ros2 Dağıtım Çeşitleri](https://www.ros.org/reps/rep-2001.html), [mcap dosya biçimi](https://mcap.dev/)
 
